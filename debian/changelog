@@ -1,8 +1,13 @@
-libpaper (1.1.28-deepin1) unstable; urgency=medium
+libpaper (1.1.29) unstable; urgency=medium
 
-  * Rebuild
+  * Fix for parallel build. See #857058
+  * Added romanian translation. See #1032333
+  * Updated standards-version to 4.6.0 (no changes)
+  * Update papersize manual page. See #959403
+  * Update paperconf manual page. See #959404
+  * Update paperconfig manual page. See #959405
 
- -- Deepin Packages Builder <packages@deepin.org>  Fri, 11 Nov 2022 17:59:48 +0800
+ -- Giuseppe Sacco <eppesuig@debian.org>  Fri, 17 Mar 2023 14:44:15 +0100
 
 libpaper (1.1.28) unstable; urgency=medium
 

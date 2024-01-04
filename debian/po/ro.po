@@ -1,0 +1,316 @@
+# Mesajele în limba română pentru pachetul libpaper.
+# Romanian translation of libpaper.
+# Copyright © 2023 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the libpaper package.
+#
+# Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>, 2023.
+#
+# Cronologia traducerii fișierului „libpaper”:
+# Traducerea inițială, făcută de R-GC, pentru versiunea libpaper 1.1.28(2009-07-18).
+# Actualizare a traducerii pentru versiunea Y, făcută de X, Y(anul).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: libpaper 1.1.28\n"
+"Report-Msgid-Bugs-To: eppesuig@debian.org\n"
+"POT-Creation-Date: 2007-07-18 19:50+0200\n"
+"PO-Revision-Date: 2023-02-26 11:30+0100\n"
+"Last-Translator: Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>\n"
+"Language-Team: Romanian <debian-l10n-romanian@lists.debian.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n!=1 && n%100>=1 && "
+"n%100<=19) ? 1 : 2);\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Poedit 3.2.2\n"
+
+# R-GC, scrie:
+# cum multe dintre dimensiunile ce apar aici,
+# au nume englezești(a se citi, americane),
+# ce traduse, nu ne spun mare lucru și care
+# pe aici pe colo, induc în eroare, am extras
+# dimensiunile acestora (în milimetri), din
+# pagina de Wikipedia:
+# <https://en.wikipedia.org/wiki/Paper_size>
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "letter"
+msgstr "Letter(scrisoare) [216 x 279mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "a4"
+msgstr "A4 [210 x 297mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "note"
+msgstr "Note(notă) [220 x 280mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "legal"
+msgstr "Legal [216 x 356mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "executive"
+msgstr "Executive [184 x 267mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "halfletter"
+msgstr "Half Letter(½ scrisoare) [140 x 216mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "halfexecutive"
+msgstr "Half Executive(½ executiv) [130 x 184mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "11x17"
+msgstr "11x17 [279 x 432mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "statement"
+msgstr "Statement(declarație) [140 x 216mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "folio"
+msgstr "Folio [203 x 330mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "quarto"
+msgstr "Quarto [216 x 275mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "10x14"
+msgstr "10x14 [254 x 356mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "ledger"
+msgstr "Ledger(registru) [432 x 279mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "tabloid"
+msgstr "Tabloid [279 × 432mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "a0"
+msgstr "A0 [841 x 1.189mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "a1"
+msgstr "A1 [594 x 841mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "a2"
+msgstr "A2 [420 x 524mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "a3"
+msgstr "A3 [297 x 420mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "a5"
+msgstr "A5 [148 x 210mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "a6"
+msgstr "A6 [105 x 148mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "a7"
+msgstr "A7 [74 x 105mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "a8"
+msgstr "A8 [52 x 74mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "a9"
+msgstr "A9 [37 x 52mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "a10"
+msgstr "A10 [26 x 37mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "b0"
+msgstr "B0 [1.000 x 1.414mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "b1"
+msgstr "B1 [707 x 1.000mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "b2"
+msgstr "B2 [500 x 707mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "b3"
+msgstr "B3 [353 x 500mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "b4"
+msgstr "B4 [250 353mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "b5"
+msgstr "B5 [176 x 250mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "c5"
+msgstr "C5 [162 x 229mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "DL"
+msgstr "DL/DIN long (plic) [110 x 220mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "Comm10"
+msgstr "Comm10(comercial) plic [105 x 241mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "Monarch"
+msgstr "Monarch(monarhal) plic [98,4 x 191mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "archE"
+msgstr "ArchE [914 x 1.220mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "archD"
+msgstr "ArchD [610 x 914mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "archC"
+msgstr "ArchC [457 x 610mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "archB"
+msgstr "ArchB [305 x 457mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "archA"
+msgstr "ArchA [229 x 305mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "flsa"
+msgstr "Foolscap-USA (folio-lat) [343 x 432mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "flse"
+msgstr "Foolscap-UK (folio-lat)  [330 x 406mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "csheet"
+msgstr "Csheet/ANSI C [432 x 559mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "dsheet"
+msgstr "Dsheet/ANSI D [559 x 864mm]"
+
+#. Type: select
+#. Choices
+#: ../libpaper1.templates:2001
+msgid "esheet"
+msgstr "Esheet/ANSI E [864 x 1.118mm]"
+
+#. Type: select
+#. Description
+#: ../libpaper1.templates:2002
+msgid "System's default paper size:"
+msgstr "Dimensiunea a hârtiei pentru sistemului:"
+
+#. Type: select
+#. Description
+#: ../libpaper1.templates:2002
+msgid ""
+"Please select the default paper size for the system. Various programs on the "
+"system will use this configuration option to determine how to print output."
+msgstr ""
+"Selectați dimensiunea implicită a hârtiei pentru sistem. Diverse programe din "
+"sistem vor folosi această opțiune de configurare pentru a determina modul de "
+"imprimare."
