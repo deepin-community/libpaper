@@ -1,3 +1,9 @@
+libpaper (1.1.29deepin1) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Mon, 21 Sep 2026 15:30:09 +0800
+
 libpaper (1.1.29) unstable; urgency=medium
 
   * Fix for parallel build. See #857058
